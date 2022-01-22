@@ -23,6 +23,38 @@ Otherwise, this is what you need to do:
 
 ## The Themes
 
+<h3 align="center">Serendipity Midnight</h3>
+
+<p align="center">
+  <img alt="Serendipity Midnight for Windows Terminal" src="./serendipity-midnight_windows-terminal.png" height="350" />
+</p>
+
+```json
+{
+  "name": "Serendipity Midnight",
+  "background": "#1C1E2D",
+  "foreground": "#DEE0EF",
+  "cursorColor": "#6B6D7C",
+  "selectionBackground": "#2C2E3D",
+  "black": "#232534",
+  "brightBlack": "#8D8F9E",
+  "blue": "#5BA2D0",
+  "brightBlue": "#5BA2D0",
+  "cyan": "#94B8FF",
+  "brightCyan": "#94B8FF",
+  "purple": "#A78BFA",
+  "brightPurple": "#A78BFA",
+  "white": "#DEE0EF",
+  "brightWhite": "#DEE0EF",
+  "green": "#9CCFD8",
+  "brightGreen": "#9CCFD8",
+  "red": "#EE8679",
+  "brightRed": "#EE8679",
+  "yellow": "#F8D2C9",
+  "brightYellow": "#F8D2C9"
+}
+```
+
 <h3 align="center">Serendipity Sunset</h3>
 
 <p align="center">
@@ -55,37 +87,6 @@ Otherwise, this is what you need to do:
 }
 ```
 
-<h3 align="center">Serendipity Midnight</h3>
-
-<p align="center">
-  <img alt="Serendipity Midnight for Windows Terminal" src="./serendipity-midnight_windows-terminal.png" height="350" />
-</p>
-
-```json
-{
-  "name": "Serendipity Midnight",
-  "background": "#1C1E2D",
-  "foreground": "#DEE0EF",
-  "cursorColor": "#6B6D7C",
-  "selectionBackground": "#2C2E3D",
-  "black": "#232534",
-  "brightBlack": "#8D8F9E",
-  "blue": "#5BA2D0",
-  "brightBlue": "#5BA2D0",
-  "cyan": "#94B8FF",
-  "brightCyan": "#94B8FF",
-  "purple": "#A78BFA",
-  "brightPurple": "#A78BFA",
-  "white": "#DEE0EF",
-  "brightWhite": "#DEE0EF",
-  "green": "#9CCFD8",
-  "brightGreen": "#9CCFD8",
-  "red": "#EE8679",
-  "brightRed": "#EE8679",
-  "yellow": "#F8D2C9",
-  "brightYellow": "#F8D2C9"
-}
-```
 
 <h3 align="center">Serendipity Morning</h3>
 
