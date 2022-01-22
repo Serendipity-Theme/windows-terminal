@@ -1,5 +1,5 @@
 <p align="center">
-  <img alt="Serendipity Logo" src="./serendipity_logo.png" height="350" />
+  <img alt="Serendipity Logo" src="./serendipity_windows-terminal_hero.png" height="350" />
 </p>
 <h1 align="center">Serendipity for Windows Terminal</h1>
 
