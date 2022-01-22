@@ -1,35 +1,22 @@
 // This file contains a JSON fragment for modifying the Windows Terminal PowerShell theme to use the Serendipity color scheme
 {
-    "profiles": [
-        {
-            "altGrAliasing": true,
-            "antialiasingMode": "grayscale",
-            "closeOnExit": "graceful",
-            "colorScheme": "Serendipity Midnight",
-            "commandline": "powershell.exe",
-            "cursorShape": "bar",
-            "font": 
-            {
-                "size": 12
-            },
-            "hidden": false,
-            "historySize": 9001,
-            "backgroundImage": "%appdata%\\..\\Local\\Microsoft\\Windows Terminal\\Fragments\\Serendipity\\serendipity_logo_256px.png",
-            "backgroundImageAlignment": "bottomRight",
-            "backgroundImageOpacity": 0.3,
-            "backgroundImageStretchMode": "none",
-            "icon": "%appdata%\\..\\Local\\Microsoft\\Windows Terminal\\Fragments\\Serendipity\\serendipity_logo_32px.png",
-            "name": "PowerShell Serendipity",
-            "tabTitle": "Serendipity",
-            "padding": "8, 8, 8, 8",
-            "snapOnInput": true,
-            "startingDirectory": "%USERPROFILE%",
-            "unfocusedAppearance": 
-            {
-                "colorScheme": "Serendipity Sunset",
-                "backgroundImageOpacity": 0.5
-            },
-            "useAcrylic": false
-        }
-    ]
+  "profiles": [
+    {
+      "colorScheme": "Serendipity Midnight",
+      "commandline": "powershell.exe",
+      "hidden": false,
+      "backgroundImage": "%appdata%\\..\\Local\\Microsoft\\Windows Terminal\\Fragments\\Serendipity\\serendipity_logo_256px.png",
+      "backgroundImageAlignment": "bottomRight",
+      "backgroundImageOpacity": 0.3,
+      "backgroundImageStretchMode": "none",
+      "icon": "%appdata%\\..\\Local\\Microsoft\\Windows Terminal\\Fragments\\Serendipity\\serendipity_logo_32px.png",
+      "name": "PowerShell Serendipity",
+      "tabTitle": "Serendipity",
+      "unfocusedAppearance": {
+          "colorScheme": "Serendipity Sunset",
+          "backgroundImageOpacity": 0.5
+      },
+      "useAcrylic": false
+    }
+  ]
 }
