@@ -12,6 +12,7 @@
       "icon": "%appdata%\\..\\Local\\Microsoft\\Windows Terminal\\Fragments\\Serendipity\\serendipity_logo_32px.png",
       "name": "PowerShell Serendipity",
       "tabTitle": "Serendipity",
+      "startingDirectory": "%USERPROFILE%",
       "unfocusedAppearance": {
           "colorScheme": "Serendipity Sunset",
           "backgroundImageOpacity": 0.5
