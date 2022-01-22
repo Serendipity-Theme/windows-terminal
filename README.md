@@ -40,7 +40,7 @@ Here's the gist:
 - After installing the themes, you'll have to update your profiles in order to use them. Go to settings, choose your profile on the left, click the `Appearance` tab and select the new color scheme.  
   You can also change your "Defaults"-profile in case you haven't overwritten it with your profiles.
 - Recent versions of Windows Terminal allow you to choose an "Unfocused Appearance". Using *Serendipity Midnight* as the "normal" scheme and *Serendipity Sunset* as the unfocused theme makes for a nice effect, reducing text contrast whenever your terminal isn't focused.  
-  The included PowerShell profile (see [Automatic Installation](#automatic-installation-(recommended))) has this enabled by default.
+  The included PowerShell profile (see [Automatic Installation](#automatic-installation-recommended)) has this enabled by default.
 
 ## Theme Variants
 
