@@ -1,0 +1,31 @@
+// This file contains a JSON fragment for modifying the Windows Terminal PowerShell theme to use the Serendipity color scheme
+{
+    "profiles": [
+        {
+            "altGrAliasing": true,
+            "antialiasingMode": "grayscale",
+            "backgroundImage": null,
+            "closeOnExit": "graceful",
+            "colorScheme": "Serendipity Midnight",
+            "commandline": "powershell.exe",
+            "cursorShape": "bar",
+            "font": 
+            {
+                "size": 12
+            },
+            "guid": "{61c54bbd-c2c6-5271-96e7-009a87ff44bf}",
+            "hidden": false,
+            "historySize": 9001,
+            "icon": "ms-appx:///ProfileIcons/{61c54bbd-c2c6-5271-96e7-009a87ff44bf}.png",
+            "name": "Windows PowerShell (Serendipity)",
+            "padding": "8, 8, 8, 8",
+            "snapOnInput": true,
+            "startingDirectory": "%USERPROFILE%",
+            "unfocusedAppearance": 
+            {
+                "colorScheme": "Serendipity Sunset"
+            },
+            "useAcrylic": false
+        }
+    ]
+}

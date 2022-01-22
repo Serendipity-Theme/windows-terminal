@@ -1,5 +1,5 @@
 // Copy the three schemes to the `schemes`-array inside your Windows Terminal settings file (`settings.json`)
-// You can find the file by opening your terminal, pressing `CTRL` + `,` to open the settings page, and then clicking on `Open JSON file` in the lower left corner
+// You can open the file by opening your terminal and pressing `CTRL` `SHIFT` + `,`
 {
     "schemes": [
         {
