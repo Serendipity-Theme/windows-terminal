@@ -18,10 +18,10 @@ Invoke-Webrequest -uri 'https://raw.githubusercontent.com/Serendipity-Theme/wind
 This will install the lateset version of all three theme variants (Sunset, Midnight and Morning) for the current user.  
 The themes will be available in your terminal settings **after restarting your terminal** (close all open instances, then reopen).
 
-You can also update your default PowerShell color theme to use the new themes using this command (requires the Serendipity themes to be already installed):
+You can also add a custom PowerShell profile to use the new themes using this command (requires the Serendipity themes to be already installed):
 
 ```ps
-Invoke-Webrequest -uri 'https://raw.githubusercontent.com/Serendipity-Theme/windows-terminal/main/profiles.jsonc' -OutFile ( New-Item -Path "$($env:LOCALAPPDATA)\Microsoft\Windows Terminal\Fragments\Serendipity\profiles.json" -Force )
+Invoke-Webrequest -uri 'https://raw.githubusercontent.com/Serendipity-Theme/windows-terminal/main/profiles.jsonc' -OutFile ( New-Item -Path "$($env:LOCALAPPDATA)\Microsoft\Windows Terminal\Fragments\Serendipity\profiles.json" -Force ) ; Invoke-Webrequest -uri 'https://raw.githubusercontent.com/Serendipity-Theme/windows-terminal/main/serendipity_logo_32px.png' -OutFile ( New-Item -Path "$($env:LOCALAPPDATA)\Microsoft\Windows Terminal\Fragments\Serendipity\serendipity_logo_32px.png" -Force ) ; Invoke-Webrequest -uri 'https://raw.githubusercontent.com/Serendipity-Theme/windows-terminal/main/serendipity_logo_256px.png' -OutFile ( New-Item -Path "$($env:LOCALAPPDATA)\Microsoft\Windows Terminal\Fragments\Serendipity\serendipity_logo_256px.png" -Force )
 ```
 
 ### Manual Installation
