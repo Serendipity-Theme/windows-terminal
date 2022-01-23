@@ -4,6 +4,10 @@
 
 This repo contains the Windows Terminal port of Serendipity.
 
+<p align="center">
+  <img alt="PowerShell Profile" src="./serendipity_windows-terminal_hero.png" height="350" />
+</p>
+
 ## Installation
 
 ### Automatic Installation (Recommended)
