@@ -1,6 +1,6 @@
 ![Midnight](https://raw.githubusercontent.com/Serendipity-Theme/assets/main/githubHeader.png)
 
-<h1 align="center">Serendipity for Windows Terminal</h1>
+<h1 >Serendipity for Windows Terminal</h1>
 
 This repo contains the Windows Terminal port of Serendipity.
 
