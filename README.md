@@ -1,6 +1,5 @@
-<p align="center">
-  <img alt="Serendipity Logo" src="./serendipity_windows-terminal_hero.png" height="350" />
-</p>
+![Midnight](https://raw.githubusercontent.com/Serendipity-Theme/assets/main/githubHeader.png)
+
 <h1 align="center">Serendipity for Windows Terminal</h1>
 
 This repo contains the Windows Terminal port of Serendipity.
