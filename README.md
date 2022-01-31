@@ -1,12 +1,6 @@
 ![Midnight](https://raw.githubusercontent.com/Serendipity-Theme/assets/main/githubHeader.png)
 
-<h1 >Serendipity for Windows Terminal</h1>
-
-This repo contains the Windows Terminal port of Serendipity.
-
-<p align="center">
-  <img alt="PowerShell Profile" src="./serendipity_windows-terminal_hero.png" height="350" />
-</p>
+## Serendipity for Windows Terminal
 
 ## Installation
 
@@ -47,11 +41,11 @@ Here's the gist:
 
 ## Theme Variants
 
-<h3 align="center">Serendipity Midnight</h3>
+### Serendipity Midnight
 
-<p align="center">
-  <img alt="Serendipity Midnight for Windows Terminal" src="./midnight.png" height="350" />
-</p>
+
+ ![Midnight](https://github.com/Serendipity-Theme/windows-terminal/blob/main/Midnight.png?raw=true)
+
 
 ```json
 {
