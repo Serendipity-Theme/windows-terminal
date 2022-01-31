@@ -44,7 +44,7 @@ Here's the gist:
 ### Serendipity Midnight
 
 
- ![Midnight](https://github.com/Serendipity-Theme/windows-terminal/blob/main/Midnight.png?raw=true)
+![Midnight](https://github.com/Serendipity-Theme/windows-terminal/blob/main/Midnight.png?raw=true)
 
 
 ```json
@@ -73,11 +73,11 @@ Here's the gist:
 }
 ```
 
-<h3 align="center">Serendipity Sunset</h3>
+### Serendipity Sunset
 
-<p align="center">
-  <img alt="Serendipity Sunset for Windows Terminal" src="./serendipity-sunset_windows-terminal.png" height="350" />
-</p>
+
+![Midnight](https://github.com/Serendipity-Theme/windows-terminal/blob/main/Sunset.png?raw=true)
+
 
 ```json
 {
@@ -106,11 +106,11 @@ Here's the gist:
 ```
 
 
-<h3 align="center">Serendipity Morning</h3>
 
-<p align="center">
-  <img alt="Serendipity Morning for Windows Terminal" src="./serendipity-morning_windows-terminal.png" height="350" />
-</p>
+### Serendipity Morning
+
+
+![Midnight](https://github.com/Serendipity-Theme/windows-terminal/blob/main/Morning.png?raw=true)
 
 ```json
 {
