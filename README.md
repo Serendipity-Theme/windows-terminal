@@ -50,7 +50,7 @@ Here's the gist:
 <h3 align="center">Serendipity Midnight</h3>
 
 <p align="center">
-  <img alt="Serendipity Midnight for Windows Terminal" src="./serendipity-midnight_windows-terminal.png" height="350" />
+  <img alt="Serendipity Midnight for Windows Terminal" src="./midnight.png" height="350" />
 </p>
 
 ```json
