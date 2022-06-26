@@ -18,7 +18,7 @@ The themes will be available in your terminal settings **after restarting your t
 You can also add a custom PowerShell profile to use the new themes using this command (requires the Serendipity themes to be already installed):
 
 ```ps
-Invoke-Webrequest -uri 'https://raw.githubusercontent.com/Serendipity-Theme/windows-terminal/main/profiles.jsonc' -OutFile ( New-Item -Path "$($env:LOCALAPPDATA)\Microsoft\Windows Terminal\Fragments\Serendipity\profiles.json" -Force ) ; Invoke-Webrequest -uri 'https://raw.githubusercontent.com/Serendipity-Theme/windows-terminal/main/serendipity_logo_32px.png' -OutFile ( New-Item -Path "$($env:LOCALAPPDATA)\Microsoft\Windows Terminal\Fragments\Serendipity\serendipity_logo_32px.png" -Force ) ; Invoke-Webrequest -uri 'https://raw.githubusercontent.com/Serendipity-Theme/windows-terminal/main/serendipity_logo_256px.png' -OutFile ( New-Item -Path "$($env:LOCALAPPDATA)\Microsoft\Windows Terminal\Fragments\Serendipity\serendipity_logo_256px.png" -Force )
+Invoke-Webrequest -uri 'https://raw.githubusercontent.com/Serendipity-Theme/windows-terminal/main/profiles.jsonc' -OutFile ( New-Item -Path "$($env:LOCALAPPDATA)\Microsoft\Windows Terminal\Fragments\Serendipity\profiles.json" -Force ) ; Invoke-Webrequest -uri 'https://github.com/Serendipity-Theme/windows-terminal/raw/2da9fe5bb4aa16001eaa63167980378e2fcb44ff/serendipity_logo_32px.png' -OutFile ( New-Item -Path "$($env:LOCALAPPDATA)\Microsoft\Windows Terminal\Fragments\Serendipity\serendipity_logo_32px.png" -Force ) ; Invoke-Webrequest -uri 'https://github.com/Serendipity-Theme/windows-terminal/raw/2da9fe5bb4aa16001eaa63167980378e2fcb44ff/serendipity_logo_256px.png' -OutFile ( New-Item -Path "$($env:LOCALAPPDATA)\Microsoft\Windows Terminal\Fragments\Serendipity\serendipity_logo_256px.png" -Force )
 ```
 
 ### Manual Installation
@@ -27,7 +27,7 @@ Check out the [Windows Terminal Docs](https://docs.microsoft.com/en-us/windows/t
 
 Here's the gist:
 
-1. Open the [`schemes.jsonc`](https://github.com/Serendipity-Theme/windows-terminal/blob/master/schemes.jsonc) file inside this repository
+1. Open the [`schemes.jsonc`](https://github.com/Serendipity-Theme/windows-terminal/blob/main/schemes.jsonc) file inside this repository
    - This file is a small part of the Windows Termial Settings file and includes only the three theme variants
 2. Copy the three theme variants to the `schemes`-array inside your Windows Terminal settings file (`settings.json`)
    - You can find the file by opening your terminal and pressing `CTRL` + `SHIFT` + `,`
